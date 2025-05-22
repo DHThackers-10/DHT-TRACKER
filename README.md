@@ -74,24 +74,26 @@ You’ll get a public https:// link you can send to targets (for demo/educationa
 
 # ✅ Features
 
-Fast & Lightweight
+*Fast & Lightweight*
 
-Stylish Terminal Output (Rich)
+*Stylish Terminal Output (Rich)*
 
-Google Maps Integration
+*Google Maps Integration*
 
-JSON Logging
+*JSON Logging*
 
-One-Command Start
+*One-Command Start*
 
-Beginner Friendly
+*Beginner Friendly*
 
-Ethical by Design
+*Ethical by Design*
 
 
 # 👨‍💻 Credits
 
 Created by the DHT Hackers Team
-GitHub: https://github.com/DHThackers-10
-YouTube: https://youtube.com/@dht-hackers_10
-WhatsApp Community: https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os
+**GitHub profile**:[GitHub](https://github.com/DHThackers-10)
+
+**channel**:[YouTube](https://youtube.com/@dht-hackers_10)
+
+**Group**:[WhatsApp Community](https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os)
