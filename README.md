@@ -1,5 +1,6 @@
 # DHT-LOCATION
 
+![DHT-TRACKER](https://img.shields.io/badge/DHT-HACKERS-red?style=for-the-badge)
 The most powerful **location phishing** tool for **educational purposes only**.
 
 ---
