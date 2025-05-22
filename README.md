@@ -41,19 +41,19 @@ python3 DHT-TRACKER.py
 Runs a lightweight Flask server to host a fake location verification page
 
 Uses JavaScript Geolocation API to capture:
-Latitude
+• Latitude
 
-Longitude
+• Longitude
 
-Accuracy
+• Accuracy
 
-Platform
+• Platform
 
-Language
+• Language
 
-IP
+• IP
 
-User Agent
+• User Agent
 
 
 Stores all captured data in a structured JSON file
